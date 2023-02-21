@@ -1,2 +1,10 @@
 # 1 Problem Solving Everyday
-Solving one problem everyday
+**Some of the codes are reviewed if they are important in terms of**
+- Algorithmic perspectives
+- Debugging
+- C++ syntax
+- etc.
+## Reviews 
+**Notion link : read 'Reviews' at the link under**
+
+https://fortune-booth-767.notion.site/Algorithm-Problem-Solving-6da89f56c45b4ed1ae3c226cbde32ae4
