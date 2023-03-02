@@ -5,6 +5,5 @@
 - C++ syntax
 - etc.
 ## Reviews 
-**Notion link : read 'Reviews' at the link under**
+**Notion link : read 'Reviews' at the link [here](https://fortune-booth-767.notion.site/Algorithm-Problem-Solving-6da89f56c45b4ed1ae3c226cbde32ae4)**
 
-https://fortune-booth-767.notion.site/Algorithm-Problem-Solving-6da89f56c45b4ed1ae3c226cbde32ae4
