@@ -14,7 +14,7 @@ int solution(int n, int s, int a, int b, vector<vector<int>> fares) {
     int answer = 0;
     for (int i = 0; i <= 200; ++i) {
         for (int j = 0; j <= 200; ++j) {
-            F[i][j] = i == j ? 0 : INF;
+            F[i][j] = i == j ? 0 : INT_MAX;
         }
     }
 
