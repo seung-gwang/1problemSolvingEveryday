@@ -6,7 +6,7 @@ https://school.programmers.co.kr/learn/courses/30/lessons/161988#
 #include <limits.h>
 #include <algorithm>
 #define MAX_LEN (500000)
-#define INF (LL_MAX)
+
 using namespace std;
 /*
 A : 1 -1 1 -1 ...
