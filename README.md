@@ -1,6 +1,9 @@
 # 1 Problem Solving Everyday
+**Algorithm problems + SQL query problems**
+
 **Some of the codes are reviewed if they are important in terms of**
 - Algorithmic perspectives
+- SQL
 - Debugging
 - C++ syntax
 - etc.
